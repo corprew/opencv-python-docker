@@ -6,3 +6,5 @@ this has an ffmpeg older than the containers i've made with ffmpeg. don't use fo
 
 OpenCV is seriously huge when compiled. may be faster to build this one from this dockerfile and not from hub.docker.com.
 
+OpenCV build script taken from https://github.com/kavolorn/Docker-OpenCV
+
